@@ -62,3 +62,23 @@ If you are an employer, I can share my private code repository with you. Just em
   - createHTMLPage: Creates an HTML file with all photos
 
 # Project 7: Diagram System
+- DrawingApp.java: Includes all the same methods from Project 3
+- Diagram.java: Creates an interface for all other classes to follow
+- Each of the following classes implement the below methods differently:
+- CombineLeftRight.java, CombineTopBottom.java, Flag.java, HorizontalBars.java, TwoDimArrayUtil.java, VerticalBars.java
+  - getBoard: Returns the board
+  - nextAnimationStep: Change and return the board to resemble an animation
+  - getNumberRows: Returns the number of rows associated with the diagram
+  - getNumberCols: Returns the number of columns associated with the diagram
+
+# Project 8: Media Rental Manager
+- Models a system that manages different media rentals and customers
+- Since this was an open-ended project, I can't explain my algorithm here
+
+# Project 9: Recursion
+- Utilities.java
+  - addDelimeter: Uses recursion to return a string where all characters are separated by a given delimeter
+  - getDigits: Uses recursion to return a a string just the digits in a given string parameter
+  - replaceCharacter: Uses recursion to replace a target characer in an array with a specified replacement
+  - getSumEven: Uses recursion to return the sum of even values present in an array
+  - getListRowIndicies: Uses recursion to return an ArrayList wiht the indicies of rows if a 2D array that have a length that corresponds to a given parameter
