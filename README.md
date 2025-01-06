@@ -15,11 +15,11 @@ If you are an employer, I can share my private code repository with you. Just em
 
 # Project 3: Drawing App
 - DrawingApp.java
--   isValidColor: Checks if a given color is valid
--   getRandomColor: Generates a random color
--   getRectangle: Returns a string with a rectangle of specified dimensions
--   getHorizontalBars: Returns a string with the number of horizontal bars. Each bar is of equal length and has a different color.
--   getFlag: Returns a string with a triangle on the left side and horizontal bars on the right side
--   getVerticalBars: Returns a strign with a number of equally-large vertical bars that correspond to different colors.
+  - isValidColor: Checks if a given color is valid
+  - getRandomColor: Generates a random color
+  -   getRectangle: Returns a string with a rectangle of specified dimensions
+  -   getHorizontalBars: Returns a string with the number of horizontal bars. Each bar is of equal length and has a different color.
+  -   getFlag: Returns a string with a triangle on the left side and horizontal bars on the right side
+  -   getVerticalBars: Returns a strign with a number of equally-large vertical bars that correspond to different colors.
 
 # Project 4: Passport
